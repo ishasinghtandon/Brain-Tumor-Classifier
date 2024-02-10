@@ -28,14 +28,23 @@ python deploy.py
 We'll be using the following libraries to complete our classification problem:
 
 Numpy - For linear algebra operations
+
 Torch - Pytorch Deep Learning Framework
+
 OS - To use Operating System methods
+
 Random - To set random seed at specific places where random operations take place just so it happens the same way everytime it is executed
+
 Pandas - To create DataFrame, CSV files, etc
+
 Time - To perform date time operations
+
 Seaborn - For sophisticated visualization
+
 Pickle - To save and load binary files of our training data
+
 Scikit-Learn - Machine learning framework. We have used this for evaluating our Classifier and for cross-validation split
+
 Matplotlib - To visualize images, losses and accuracy
 
 # References : Akshay Kumaar M (aksh-ai on github)
