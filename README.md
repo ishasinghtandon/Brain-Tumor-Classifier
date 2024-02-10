@@ -14,7 +14,7 @@ test.py - A python script which accepts path to an image as input, which then cl
 deploy.py - A python script integrated with Flask server, that starts the Web Interface on local server where user can upload MRI image of brain and get classification results.
 
 # Running the classifier
-Download the classifier model '.pt' file from this drive link and place it under a folder named 'models' in the same directory where the files of this repository are present.
+Download the classifier model '.pt' file from this drive link(https://drive.google.com/file/d/1-rIrzzqpsSg80QG175hjEPv9ilnSHmqK/view?usp=sharing) and place it under a folder named 'models' in the same directory where the files of this repository are present.
 
 Before running the programs, kindly install the requirements as given in Requirements section of this README.
 
